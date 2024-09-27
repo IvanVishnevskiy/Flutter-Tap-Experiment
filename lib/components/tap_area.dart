@@ -1,7 +1,6 @@
 import 'package:cocoflutter/state/tap_effects_state.dart';
 import 'package:cocoflutter/theme.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:provider/provider.dart';
 
 import 'package:cocoflutter/state/game_state.dart';
